@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "firebase_url": "https://pract20-7e84a-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "project_number": "902953084224",
+    "project_id": "pract20-7e84a",
+    "storage_bucket": "pract20-27763.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109287989612:android:80831eb5138abd50f11349",
+        "android_client_info": {
+          "package_name": "com.example.pract20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHGPDRCxfiOdIJtOscvKwdizD7-7c5zhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
